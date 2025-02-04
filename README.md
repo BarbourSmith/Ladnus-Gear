@@ -6,5 +6,7 @@
 
 
 
- 
+ 45 is the correct number of teeth for a half circle
+
+
 

@@ -14,7 +14,12 @@
             "x": 0.98,
             "y": 0.5,
             "uniqueID": 1738629302011,
-            "ioValues": [],
+            "ioValues": [
+                {
+                    "name": "number or geometry",
+                    "ioValue": 1738629332021
+                }
+            ],
             "description": "Connect geometry here to make it available in the next level up. "
         },
         {
@@ -86,7 +91,12 @@
                             "x": 0.98,
                             "y": 0.5,
                             "uniqueID": 1738622979034,
-                            "ioValues": [],
+                            "ioValues": [
+                                {
+                                    "name": "number or geometry",
+                                    "ioValue": 1738623562106
+                                }
+                            ],
                             "description": "Connect geometry here to make it available in the next level up. "
                         },
                         {
@@ -397,7 +407,12 @@
                             "x": 0.98,
                             "y": 0.5,
                             "uniqueID": 1738623580076,
-                            "ioValues": [],
+                            "ioValues": [
+                                {
+                                    "name": "number or geometry",
+                                    "ioValue": 1738623580315
+                                }
+                            ],
                             "description": "Connect geometry here to make it available in the next level up. "
                         },
                         {
@@ -701,7 +716,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": 1738623579956
+                            "ioValue": 1738629379666
                         },
                         {
                             "name": "xDist",
@@ -727,11 +742,11 @@
                     "ioValues": [
                         {
                             "name": "Shape 1",
-                            "ioValue": 1738622979456
+                            "ioValue": 1738629380367
                         },
                         {
                             "name": "Shape 2",
-                            "ioValue": 1738623773138
+                            "ioValue": 1738629380188
                         },
                         {
                             "name": "Shape 3",
@@ -739,11 +754,11 @@
                         },
                         {
                             "name": "Shape 1",
-                            "ioValue": 1738622979456
+                            "ioValue": 1738629380367
                         },
                         {
                             "name": "Shape 2",
-                            "ioValue": 1738623773138
+                            "ioValue": 1738629380188
                         },
                         {
                             "name": "Shape 3",
@@ -762,7 +777,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": 1738623786714
+                            "ioValue": 1738629380254
                         },
                         {
                             "name": "x-axis degrees",
@@ -808,8 +823,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "RotatePattern",
-                    "x": 0.6646825396825397,
-                    "y": 0.27019498607242337,
+                    "x": 0.667989417989418,
+                    "y": 0.2757660167130919,
                     "uniqueID": 1738629379955,
                     "ioValues": [
                         {
@@ -818,7 +833,7 @@
                         },
                         {
                             "name": "Number",
-                            "ioValue": 45
+                            "ioValue": 10
                         },
                         {
                             "name": "Angle",
@@ -917,7 +932,7 @@
                                 },
                                 {
                                     "name": "Number",
-                                    "ioValue": 45
+                                    "ioValue": 10
                                 },
                                 {
                                     "name": "Angle",
@@ -1063,7 +1078,7 @@
                     "ioValues": [
                         {
                             "name": "geometry2",
-                            "ioValue": 1738628371336
+                            "ioValue": 1738629379429
                         },
                         {
                             "name": "geometry1",
@@ -1081,7 +1096,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": 1738627153373
+                            "ioValue": 1738629379838
                         },
                         {
                             "name": "height",
@@ -1103,7 +1118,7 @@
                         },
                         {
                             "name": "Shape 2",
-                            "ioValue": 1738627169627
+                            "ioValue": 1738629379908
                         }
                     ],
                     "description": "Pick between assembly and fusion to join input geometries. Assembly takes multiple shapes together into one, shapes higher in the inputs list will cut into shapes lower on the input list where they overlap. Fusion takes all shapes or sketches and fuses them permanently into a single shape",
@@ -1192,7 +1207,7 @@
                     "ioValues": [
                         {
                             "name": "Shape 1",
-                            "ioValue": 1738628244438
+                            "ioValue": 1738629380388
                         },
                         {
                             "name": "Shape 2",
